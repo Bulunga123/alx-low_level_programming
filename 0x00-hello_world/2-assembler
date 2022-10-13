@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE -o cilove
+gcc $CFILE -o cisfun
