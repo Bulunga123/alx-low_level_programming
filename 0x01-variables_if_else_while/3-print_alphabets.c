@@ -6,8 +6,9 @@
 int main(void)
 {
 	char alphs[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	int i;
 
-	for (int i = 0; i < 52 ; i++)
+	for (i = 0; i < 52 ; i++)
 	{
 		putchar(alphs[i]);
 	}
