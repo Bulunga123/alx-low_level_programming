@@ -6,10 +6,9 @@
 int main(void)
 {
 	char a;
-	int n;
 
-	for (n = 48; n < 58; n++)
-		putchar(n);
+	for (a = 48; a < 58; a++)
+		putchar(a);
 	for (a = 'a'; a <= 'f'; a++)
 		putchar(a);
 	return (0);
