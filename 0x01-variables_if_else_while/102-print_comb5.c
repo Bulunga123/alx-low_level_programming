@@ -1,4 +1,4 @@
-iiii#include <stdio.h>
+#include <stdio.h>
 /**
  *main - functin
  *Return: 0 fo now
