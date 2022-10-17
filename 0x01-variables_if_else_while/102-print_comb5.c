@@ -1,4 +1,4 @@
-#include <stdio.h>
+iiii#include <stdio.h>
 /**
  *main - functin
  *Return: 0 fo now
@@ -30,10 +30,6 @@ int main(void)
 						putchar(' ');
 						putchar(c);
 						putchar(d);
-						if (a == 57 && b == 56 && c == 57 && d == 57)
-						{
-							break;
-						}
 						putchar(',');
 						putchar(' ');
 					}
