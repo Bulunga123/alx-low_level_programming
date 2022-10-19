@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_times_table - print function
+ * times_table - print function
  */
-void print_times_table(void)
+void times_table(void)
 {
 	int sum, a, b;
 
