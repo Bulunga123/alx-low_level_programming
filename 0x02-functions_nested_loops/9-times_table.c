@@ -1,9 +1,8 @@
 #include "main.h"
 /**
  * print_times_table - print function
- *@n: return number
  */
-void print_times_table(int n)
+void print_times_table(void)
 {
 	int sum, a, b;
 
