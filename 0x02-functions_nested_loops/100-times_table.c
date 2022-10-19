@@ -1,4 +1,4 @@
-#include "main.h"
+i#include "main.h"
 /**
  * print_times_table - function print
  * @n: as parameter
@@ -19,7 +19,7 @@ void print_times_table(int n)
 				_putchar(',');
 				_putchar(' ');
 				sum = a * b;
-				if (sum <= n)
+				if (sum <= 9)
 				{
 					_putchar(' ');
 				}
