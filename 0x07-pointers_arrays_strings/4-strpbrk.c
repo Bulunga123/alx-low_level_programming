@@ -1,5 +1,3 @@
-FOR TASK 4
-
 #include "main.h"
 /**
  * _strpbrk - Entry point
